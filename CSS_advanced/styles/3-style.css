@@ -7,7 +7,7 @@
     --text-color: var(--color-black);
 }
 
-html {
+html{
     scroll-behavior: smooth;
 }
 

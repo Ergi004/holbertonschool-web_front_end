@@ -11,22 +11,22 @@ html {
     scroll-behavior: smooth;
 }
 
-body {
+body{
+    color: var(--text-color);
+}
+
+a{
     color: var(--text-color)
 }
 
-a {
-    color: var(--text-color)
-}
-
-.visually-hidden {
+.visually-hidden{
     display: none;
 }
 
-.card-category {
+.card-category{
     color: var(--color-priamry)
 }
 
-.section-tagline {
+.section-tagline{
     color: var(--color-priamry)
 }

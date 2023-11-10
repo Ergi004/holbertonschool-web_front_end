@@ -322,7 +322,7 @@ ul.row {
 }
 
 .footer-addres {
-    --text-color: var(--text-color);
+    color: var(--text-color);
 }
 
 .social-link {
